@@ -1,0 +1,19 @@
+{
+  "name": "jlinq",
+  "version": "3.0.2",
+  "description": "jLinq is a 100% JavaScript library that allows you to perform complex queries on arrays of JSON data. Instead of using for loops and if statements, you can write fluent queries to filter, sort and select the information you need.",
+  "main": "jlinq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxninja39/jlinq.git"
+  },
+  "author": "Hugo Bonacci",
+  "license": "CDDL-1.0",
+  "bugs": {
+    "url": "https://github.com/linuxninja39/jlinq/issues"
+  },
+  "homepage": "https://github.com/linuxninja39/jlinq#readme"
+}
