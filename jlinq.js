@@ -1,5 +1,5 @@
 /*
- * jLinq - 3.0.1
+ * jLinq - 3.0.2
  * Hugo Bonacci - hugoware.com
  * http://creativecommons.org/licenses/by/3.0/
  */
